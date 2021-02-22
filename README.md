@@ -26,6 +26,9 @@ Please make sure to update tests as appropriate.
 ## Resources
 Sample 3D Scans  were produced using [DesktopHero 2.0](https://desktophero3d.com/) and edited in Microsoft 3D Viewer; no humans were injured nor imaged in the making of this project.
 
+## Development Goals
+-Work with FHIR API & DICOM standard
+
 ## License
 Copyright: Kurt Woodward (2021)
 All rights reserved.
