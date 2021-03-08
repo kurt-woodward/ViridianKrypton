@@ -19,13 +19,13 @@ ViridianKrypton is a work-in-progress class project for:
 ### 6. Requirements & Test Methods
 *[Requirements](/Requirements/Requirements-List.md)
 *[Test Methods](/Requirements/)
-### 7. Contributing
-### 8. Devekopment Goals
-### 9. Resources
-### 10. License
+### 7. Contributing(#contributing)
+### 8. Devekopment Goals(#development-goals)
+### 9. Resources(#resources)
+### 10. License(#license)
 
-## [Concept Description](#concept-description)
-(#table-of-contents)
+## Concept Description
+[Return to Table of Contents](#table-of-contents)
 
 BLUF: The goal of this project is to develop a centralized repository of 3D scans of people in order to manage this highly-sensitive biometric resource while still providing secure, managed access for authorized users.
 
@@ -38,16 +38,20 @@ In the era of DeepFakes, the thought of widespread, unregulated availability of 
 
 
 ## Contributing
+[Return to Table of Contents](#table-of-contents)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## Resources
+[Return to Table of Contents](#table-of-contents)
 Sample 3D Scans  were produced using [DesktopHero 2.0](https://desktophero3d.com/) and edited in Microsoft 3D Viewer; no humans were injured nor imaged in the making of this project.
 
 ## Development Goals
+[Return to Table of Contents](#table-of-contents)
 -Work with FHIR API & DICOM standard
 
 ## License
+[Return to Table of Contents](#table-of-contents)
 Copyright: Kurt Woodward (2021)
 All rights reserved.
