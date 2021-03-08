@@ -47,7 +47,7 @@ Please make sure to update tests as appropriate.
 ## [Resources](#9-resources)
 Sample 3D Scans  were produced using [DesktopHero 2.0](https://desktophero3d.com/) and edited in Microsoft 3D Viewer; no humans were injured nor imaged in the making of this project.
 
-## [License](#10-license)
+## [License]
 Copyright: Kurt Woodward (2021)
 All rights reserved.
 
