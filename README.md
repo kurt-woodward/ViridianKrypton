@@ -12,20 +12,19 @@ ViridianKrypton is a work-in-progress class project for:
 ### 3. [User Stories](/Requirements/User-Stories.md/)
 ### 4. [Use Cases](/Requirements/Use-Cases.md/)
 ### 5. Draft UI images
-*[](/Draft Wireframe Descriptions.md/)
-*[](/DRAFT - login.jpg/)
-*[](/DRAFT - user_dashboard.jpg/)
-*[](/DRAFT - user_profile.jpg/)
+[](/Draft Wireframe Descriptions.md/)  
+[](/DRAFT - login.jpg/)  
+[](/DRAFT - user_dashboard.jpg/)  
+[](/DRAFT - user_profile.jpg/)  
 ### 6. Requirements & Test Methods
-*[Requirements](/Requirements/Requirements-List.md)
-*[Test Methods](/Requirements/)
+[Requirements](/Requirements/Requirements-List.md)  
+[Test Methods](/Requirements/)
 ### 7. Contributing(#contributing)
 ### 8. Development Goals(#development-goals)
 ### 9. Resources(#resources)
 ### 10. License(#license)
 
-## Concept Description
-[Return to Table of Contents](#table-of-contents)
+## [Concept Description](#1-concept-description)
 
 BLUF: The goal of this project is to develop a centralized repository of 3D scans of people in order to manage this highly-sensitive biometric resource while still providing secure, managed access for authorized users.
 
@@ -37,21 +36,19 @@ I believe the "killer app" for 3D body scans will be in online clothing sales by
 In the era of DeepFakes, the thought of widespread, unregulated availability of this kind of data is unnerving. A solution is required to collect and secure this data, while still allowing individuals to choose to release it for authorized purposes (or to delete it altogether). 
 
 
-## Contributing
-[Return to Table of Contents](#table-of-contents)
+## [Contributing](#7-contributing)
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Development Goals
-[Return to Table of Contents](#table-of-contents)
+## [Development Goals](#8-development-goals)
 -Work with FHIR API & DICOM standard
 
-## Resources
-[Return to Table of Contents](#table-of-contents)
+## [Resources](#9-resources)
 Sample 3D Scans  were produced using [DesktopHero 2.0](https://desktophero3d.com/) and edited in Microsoft 3D Viewer; no humans were injured nor imaged in the making of this project.
 
-## License
-[Return to Table of Contents](#table-of-contents)
+## [License](#10-license)
 Copyright: Kurt Woodward (2021)
 All rights reserved.
+
+[Back to top](#viridiankrypton)
