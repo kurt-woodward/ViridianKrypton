@@ -4,7 +4,7 @@
 >	The system shall...
 
 | Requirement ID | Requirement Description | Test Method |
-| ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- |
 | R1. | Create user accounts upon request | Demonstration | |
 | R1.1 | Populate user profile either from user input, linked accounts, or user's Electronic Health Record | Test |
 | R1.2 | Get user privacy preferences and/or set defaults | Test |
