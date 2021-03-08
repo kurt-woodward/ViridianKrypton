@@ -39,8 +39,8 @@
 | | 1.2.1 | | Not Tested | | |
 | | 2. | | Not Tested | | |
 | | 2.1 | | Not Tested | | |
-| | 2.1.1 | Not Tested | | | |
-| | 2.1.2 | Not Tested | | | |
+| | 2.1.1 | | Not Tested | | |
+| | 2.1.2 | | Not Tested | | |
 | | 2.2 | | Not Tested | | |
 | | 3. | | Not Tested | | |
 | | 3.2.1 | | Not Tested | | |
