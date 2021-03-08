@@ -17,8 +17,8 @@ ViridianKrypton is a work-in-progress class project for:
 - [Draft User Dashboard](draft-user_dashboard.jpg)  
 - [Draft User Profile](draft-user_profile.jpg)  
 ### 6. Requirements & Test Methods
-- [Requirements](requirements/requirements-list.md)  
-- [Test Methods](/requirements/)
+- [Requirements](/requirements/requirements-list.md#requirements-list)  
+- [Test Methods](/requirements/requirements-list.md#test-table)
 ### 7. [Contributing](#contributing)
 ### 8. [Development Goals](#development-goals)
 ### 9. [Resources](#resources)
