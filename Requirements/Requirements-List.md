@@ -1,4 +1,4 @@
-# [ViridianKrypton](../readme.md#viridiankrypton "Return to README.md")
+# [ViridianKrypton](../README.md#viridiankrypton "Return to README.md")
 	
 ## Table of Contents  
 
