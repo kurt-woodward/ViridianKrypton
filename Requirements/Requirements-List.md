@@ -5,7 +5,7 @@
 
 | Requirement ID | Requirement Description | Test Method |
 | ---- | ---- | ---- |
-| R1. | Create user accounts upon request | Demonstration | |
+| R1 | Create user accounts upon request | Demonstration | |
 | R1.1 | Populate user profile either from user input, linked accounts, or user's Electronic Health Record | Test |
 | R1.2 | Get user privacy preferences and/or set defaults | Test |
 | R1.2.1 | Be able to modify scans to adjust level of detail and anonymity | Test |
@@ -14,9 +14,9 @@
 | R2.1.1 | Display preview results of changes to privacy settings | Demonstration |
 | R2.1.2 | Allow changing privacy settings from 3d render display screen | Test |
 | R2.2 | Enable browsing for files and execution of common file operations | Test |
-| R3. | Associate user data with scan files | Inspection |
+| R3 | Associate user data with scan files | Inspection |
 | R3.2.1 | Add metadata from user profile to appropriate templates | Test |
-| R4. | Transmit 3D renders of scans to authorized users upon request | Demonstration |
+| R4 | Transmit 3D renders of scans to authorized users upon request | Demonstration |
 | R4.1 | Compress/decompress data for transit | Inspection |
 | R4.2 | Authenticate users and requests | Inspection |
 | R5 | Adhere to privacy laws and standards | Inspection |
