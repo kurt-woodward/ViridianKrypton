@@ -8,21 +8,21 @@ ViridianKrypton is a work-in-progress class project for:
 
 ## Table of Contents
 ### 1. [Concept Description](#concept-description)
-### 2. [Data Diagram](/Database_Diagram_15_FEB_2021.JPG/)
-### 3. [User Stories](/Requirements/User-Stories.md/)
-### 4. [Use Cases](/Requirements/Use-Cases.md/)
+### 2. [Data Diagram](/database_diagram_15_feb_2021.jpg/)
+### 3. [User Stories](/requirements/user-stories.md/)
+### 4. [Use Cases](/requirements/use-cases.md/)
 ### 5. Draft UI images
-[](/Draft Wireframe Descriptions.md/)  
-[](/DRAFT - login.jpg/)  
-[](/DRAFT - user_dashboard.jpg/)  
-[](/DRAFT - user_profile.jpg/)  
+- [Draft Wireframe Description](draft-wireframe-descriptions.md)  
+- [Draft Login Page](draft-login.jpg)  
+- [Draft User Dashboard](draft-user_dashboard.jpg)  
+- [Draft User Profile](draft-user_profile.jpg)  
 ### 6. Requirements & Test Methods
-[Requirements](/Requirements/Requirements-List.md)  
-[Test Methods](/Requirements/)
-### 7. Contributing(#contributing)
-### 8. Development Goals(#development-goals)
-### 9. Resources(#resources)
-### 10. License(#license)
+- [Requirements](requirements/requirements-list.md)  
+- [Test Methods](/requirements/)
+### 7. [Contributing](#contributing)
+### 8. [Development Goals](#development-goals)
+### 9. [Resources](#resources)
+### 10. [License](#license)
 
 ## [Concept Description](#1-concept-description)
 
