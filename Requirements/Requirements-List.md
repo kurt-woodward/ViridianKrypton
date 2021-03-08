@@ -7,7 +7,7 @@
 ### [3. License](#license)  
 	
 ## [Requirements List](#1-requirements-list)  
-[Return to README.md](../readme.md#6-requirements--test-methods)  
+[Return to README.md](../README.md#6-requirements--test-methods)  
 >	The system shall...
 
 | Requirement ID | Requirement Description | Test Method |
@@ -32,7 +32,7 @@
 *This list is a living document. Requirements may be added or removed as the project progresses.*
 
 ## [Test Table](#2-test-table)
-[Return to README.md](../readme.md#6-requirements--test-methods)
+[Return to README.md](../README.md#6-requirements--test-methods)
 > Unit testing  
 > Integration testing  
 > System testing  
