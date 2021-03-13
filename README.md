@@ -12,9 +12,9 @@ ViridianKrypton is a work-in-progress class project for:
 ### 3. [User Stories](/Requirements/User-Stories.md)
 ### 4. [Use Cases](/Requirements/Use-Cases.md)
 ### 5. Draft UI images
-- [Prototype Login Page](/UI/Prototype%20-%20login.jpg)  
-- [Prototype User Dashboard](/UI/Prototype - User Dashboard.jpg)  
-- [Prototype User Profile](/UI/Prototype - User Profile.jpg)  
+- [Prototype Login Page](/UI/Prototype%20%20login.jpg)  
+- [Prototype User Dashboard](/UI/Prototype%20%20User%20Dashboard.jpg)  
+- [Prototype User Profile](/UI/Prototype%20%20User%20Profile.jpg)  
 - [Draft Wireframe Description](/UI/Draft%20%20Wireframe%20Descriptions.md)  
 - [Draft Login Page](/UI/Protoype - Login Screen.jpg)  
 - [Draft User Dashboard](/UI/DRAFT%20-%20user_dashboard.jpg)  
