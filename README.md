@@ -8,7 +8,7 @@ ViridianKrypton is a work-in-progress class project for:
 
 ## Table of Contents
 ### 1. [Concept Description](#concept-description)
-### 2. [Data Diagram](/database_diagram_15_feb_2021.jpg/)
+### 2. [Data Diagram](/Database_Diagram_15_FEB_2021.JPG/)
 ### 3. [User Stories](/requirements/user-stories.md/)
 ### 4. [Use Cases](/requirements/use-cases.md/)
 ### 5. Draft UI images
