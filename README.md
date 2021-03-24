@@ -45,12 +45,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## [Development Goals](#8-development-goals)
--Work with FHIR API & DICOM standard
+-Work with [FHIR API](https://www.hl7.org/fhir/overview-dev.html) & [DICOM](https://www.dicomstandard.org/using) standard
 
 ## [Resources](#9-resources)
 Sample 3D Scans  were produced using [DesktopHero 2.0](https://desktophero3d.com/) and edited in Microsoft 3D Viewer; no humans were injured nor imaged in the making of this project.
 
-## [License]
+## License
 Copyright: Kurt Woodward (2021)
 All rights reserved.
 
